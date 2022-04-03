@@ -1,0 +1,36 @@
+section {
+  width: 1584px;
+  height: 396px;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+img {
+  width: 150px;
+  padding: 2px;
+  margin: 4px;
+}
+.img-wrap {
+  height: fit-content;
+  /* border: 2px solid slateblue; */
+}
+.featured-wrap {
+  width: 1580px;
+  height: fit-content;
+  /* border: 2px solid pink; */
+  text-align: center;
+}
+.featured-image {
+  width: 500px;
+}
+.next-wrap {
+  height: 142px;
+  background: black;
+  display: flex;
+  align-items: center;
+}
+.next-image {
+  filter: invert(1);
+  /* border: 2px solid red; */
+}
