@@ -24,7 +24,7 @@ img {
 .featured-image {
   width: 500px;
 }
-.next-wrap {
+/* .next-wrap {
   height: 142px;
   background: black;
   display: flex;
@@ -32,5 +32,4 @@ img {
 }
 .next-image {
   filter: invert(1);
-  /* border: 2px solid red; */
-}
+} */
