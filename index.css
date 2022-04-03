@@ -1,10 +1,10 @@
 section {
   width: 1584px;
   height: 396px;
-  border: 2px solid black;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  border: 2px solid black;
 }
 img {
   width: 150px;
@@ -18,8 +18,8 @@ img {
 .featured-wrap {
   width: 1580px;
   height: fit-content;
-  /* border: 2px solid pink; */
   text-align: center;
+  /* border: 2px solid pink; */
 }
 .featured-image {
   width: 500px;
