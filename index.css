@@ -44,15 +44,14 @@ section {
   height: fit-content;
   /* border: 2px solid blue; */
 }
-
 .featured-image {
   width: 500px;
 }
 .next-wrap {
   height: 162px;
-  /* background: black; */
   display: flex;
   align-items: center;
+  /* background: black; */
 }
 /* .next-image {
   filter: invert(1);
