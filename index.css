@@ -3,16 +3,29 @@
 section {
   width: 1584px;
   height: 396px;
+  position: static;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
   border: 2px solid black;
 }
-img {
+section img {
   width: 150px;
   padding: 2px;
   margin: 4px;
+}
+.underlay-container {
+
+}
+.overlay-container {
+
+}
+.underlay-wrap {
+  position: static;
+}
+.overlay-wrap {
+  opacity: 0.5;
 }
 .img-wrap {
   height: fit-content;
